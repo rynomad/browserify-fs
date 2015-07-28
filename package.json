@@ -10,6 +10,7 @@
     "filesystem"
   ],
   "dependencies": {
+    "readable-stream":"^2.0.2",
     "level-filesystem": "^1.0.1",
     "level-js": "^2.1.3",
     "levelup": "^0.18.2"
